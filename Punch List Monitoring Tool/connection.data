@@ -1,0 +1,9 @@
+Connection informations, please put your values between the two ':' if applicable
+databaseAlias:DB:
+link_type:ODBC:Possible values OCBD/TCPIP/WINAUTH
+ODBCLinkName:MARTIN-LINGE-TOPSIDE:ICAPS-COMPARE:
+login:icaps:
+password:icaps04:
+serverURL:
+databaseName::
+SQLInstance::
